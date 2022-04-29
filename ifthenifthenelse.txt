@@ -1,0 +1,36 @@
+// Group 4
+
+// - Eligijus Skersonas
+// - Mingwei Shi
+
+// Valid: Yes
+
+// Description: if-then-if-then-else clause
+
+int main()
+{
+	int ac1;
+	ac1 = 3;
+
+	int ac2;
+	ac2 = 5;
+
+	if( ac1<ac2) then
+	{
+		int a;
+		a = 32;
+		return ac1-a;
+	}
+	if( ac2<ac1) then
+	{
+	  int b;
+		b = 21;
+		return ac2*b;
+	}
+	else
+	{
+		int c;
+		c = 43;
+		return ac1 mod c;
+	}
+}
