@@ -2,6 +2,10 @@
 
 Please allow up to 5 seconds to compile 😄
 
+
+# Requirement document
+project_specificication.pdf
+
 # Functionality and Algorithm
 we use structure to maintain the symbol table and employ the markov chain to do the type checking
 
