@@ -1,6 +1,9 @@
-# 🧸 Group 4 ToY Compiler 🧸
+# 🧸 Group 4 ToY Compiler with type-checking for Compiler design module🧸
 
 Please allow up to 5 seconds to compile 😄
+
+# Functionality and Algorithm
+we use structure to maintain the symbol table and employ the markov chain to do the type checking
 
 ## Makefile commands
 
